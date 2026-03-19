@@ -34,7 +34,7 @@ Gig delivery workers depend on daily earnings. However:
 ### Persona: Ravi (Delivery Partner – Swiggy, Chennai)
 
 * Works 8–10 hours daily
-* Earns ~₹3000/week
+* Earns ₹3000/week
 * Relies completely on active delivery time
 
 ### Scenario
